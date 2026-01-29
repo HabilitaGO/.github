@@ -4,7 +4,7 @@
 
 ---
 
-## 🇧🇷 PT-BR (Investidor)
+## 🇧🇷 PT-BR 
 
 HabilitaGO é um marketplace que conecta **alunos** e **instrutores independentes**, com foco em uma experiência moderna, segura e organizada para **aulas práticas de direção**.
 
@@ -39,8 +39,7 @@ HabilitaGO é um marketplace que conecta **alunos** e **instrutores independente
 
 ---
 
-## 🇺🇸 EN (Investor + Dev)
-
+## 🇺🇸 EN 
 HabilitaGO is a marketplace connecting **driving students** and **independent instructors**, focused on a modern, secure, and well-organized experience for **practical driving lessons**.
 
 ### Core modules

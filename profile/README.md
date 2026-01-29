@@ -2,6 +2,14 @@
 
 **Links rápidos:** [Investidor](#-pt-br-investidor) • [Dev](#-pt-br-dev) • [EN](#-en-investor--dev)
 
+PT-BR
+	•	Status: MVP em desenvolvimento (Web/Admin + API + Mobile)
+	•	Docs técnicas: habilitago-docs (arquitetura, stack, roadmap)
+
+EN
+	•	Status: MVP in progress (Web/Admin + API + Mobile)
+	•	Tech docs: habilitago-docs (architecture, stack, roadmap)
+  
 ---
 
 ## 🇧🇷 PT-BR 
